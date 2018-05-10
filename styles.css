@@ -1,3 +1,32 @@
+*{
+	margin: 0;
+	padding: 0;
+}
 body{
-	background: #ff0000;
+	background: #ffffff;
+	font-family: "helvetica",sans-serif;
+	font-size: 14px;
+}
+
+h1{
+	text-transform: uppercase;/*texto en mayusculas*/
+	font-size: 36px;
+}
+h2{
+	text-transform: uppercase;/*texto en mayusculas*/
+	font-size: 18px;
+}
+section{
+	padding-top: 60px;
+}
+/*generales*/
+.container{
+	max-width: 580px;
+	margin: 0 auto;
+}
+/*header*/
+header{
+	color: #fff;
+	background-color: #000;
+	text-align: center;
 }
