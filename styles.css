@@ -4,7 +4,7 @@
 }
 body{
 	background: #ffffff;
-	font-family: "helvetica",sans-serif;
+	font-family: 'Open Sans', sans-serif;
 	font-size: 14px;
 }
 
@@ -27,6 +27,25 @@ section{
 .container-large{
 	max-width:960px;
 	margin: 0 auto;
+}
+
+.button{
+	background-color: #0000ff;
+	color:#fff;
+	border-radius: 5px;
+	padding: 10px 15px;
+	text-decoration:none;
+	display: inline-block;
+	margin:5px 0;
+}
+.button:hover{
+	background-color: #6f6fe4;
+}
+.button-green{
+	background-color: #00ff00;	
+}
+.button-green:hover{
+	background-color: #c6e612;
 }
 /*header*/
 header{
