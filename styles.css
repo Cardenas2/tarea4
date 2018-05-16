@@ -49,6 +49,9 @@ section{
 .button-green:hover{
 	background-color: #c6e612;
 }
+.button-center{
+	margin:20px 200px;
+}
 /*header*/
 header{
 	color: #fff;
