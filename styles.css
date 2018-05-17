@@ -50,7 +50,8 @@ section{
 	background-color: #c6e612;
 }
 .button-center{
-	margin:20px 200px;
+	margin:15px 230px;
+
 }
 /*header*/
 header{
@@ -95,12 +96,21 @@ img{
 	width: 580px;
 }
 
-
-/*section contacto*/
-.datos{
-	background-color: green;
+section.datos {
+	padding: 40px 0;
+    border-top: 1px solid #cccccc;
+    background-color: #fafafa;
+    border-bottom:1px solid #cccccc;
 }
+section p{
+	text-align: center;
+}
+/*section contacto*/
+
 
 .contacto{
-	float: left;
+	position: absolute;
+	position: relative;
+	
+	width: 50%.;
 }
