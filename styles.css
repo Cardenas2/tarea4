@@ -96,7 +96,7 @@ img{
 	width: 580px;
 }
 
-section.datos {
+section.inscribete {
 	padding: 40px 0;
     border-top: 1px solid #cccccc;
     background-color: #fafafa;
@@ -108,9 +108,12 @@ section p{
 /*section contacto*/
 
 
-.contacto{
-	position: absolute;
+section .container .contacto{
 	position: relative;
-	
-	width: 50%.;
+	top: 0;
+	width:45%;
+	display:inline-block;
+}
+section .container .contacto p{
+	text-align: left;
 }
