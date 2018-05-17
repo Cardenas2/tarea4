@@ -94,3 +94,13 @@ header p{
 img{
 	width: 580px;
 }
+
+
+/*section contacto*/
+.datos{
+	background-color: green;
+}
+
+.contacto{
+	float: left;
+}
