@@ -57,6 +57,7 @@ section{
 header{
 	color: #fff;
 	background-image: url(images/bg.jpeg);
+	background-size: cover;
 	background-repeat: no-repeat;
 	text-align: center;
 	padding: 100px 0;
