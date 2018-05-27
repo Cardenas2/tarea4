@@ -117,7 +117,15 @@ section .container .contacto{
 }
 section .container .contacto p{
 	text-align: left;
+	line-height: 20px;
 }
+.container .contacto p.inscrip{
+	padding: 5px 0;
+	color:#0000FF;
+} 
+.container .contacto input{
+	margin: 20px 0 0 0;	
+} 
 
 footer{
 	background-color: #333;
